@@ -1,15 +1,15 @@
 {
-  "name": "notion-next",
-  "version": "3.15.1",
-  "homepage": "https://github.com/tangly1024/NotionNext.git",
+  "name": "钰郎哥",
+  "version": "2023.6.18",
+  "homepage": "https://necessary-pumpkin-e84.notion.site/3c1b505f52624ae58c4e50bd23770bd3?v=951c99d657ab40caa2ab1bb066986982",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tangly1024/NotionNext.git"
+    "url": "https://necessary-pumpkin-e84.notion.site/3c1b505f52624ae58c4e50bd23770bd3?v=951c99d657ab40caa2ab1bb066986982"
   },
   "author": {
     "name": "tangly",
-    "email": "mail@tangly1024.com",
+    "email": "1614097916@qq.com",
     "url": "http://tangly1024.com"
   },
   "scripts": {
@@ -75,7 +75,7 @@
     "axios": ">=0.21.1"
   },
   "bugs": {
-    "url": "https://github.com/tangly/NotionNext/issues",
-    "email": "tlyong1992@hotmail.com"
+    "url": "https://necessary-pumpkin-e84.notion.site/3c1b505f52624ae58c4e50bd23770bd3?v=951c99d657ab40caa2ab1bb066986982",
+    "email": "1614097916@qq.com"
   }
 }
