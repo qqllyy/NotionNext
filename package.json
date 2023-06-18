@@ -1,11 +1,11 @@
 {
   "name": "钰郎哥",
   "version": "2023.6.18",
-  "homepage": "https://github.com/qqllyy/NotionNext",
+  "homepage": "https://github.com/qqllyy/NotionNext.git",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/qqllyy/NotionNext"
+    "url": "https://github.com/qqllyy/NotionNext.git"
   },
   "author": {
     "name": "tangly",
