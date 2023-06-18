@@ -147,7 +147,7 @@ const BLOG = {
   RIBBON: process.env.NEXT_PUBLIC_RIBBON || false, // 开关
 
   // 星空雨特效 黑夜模式才会生效
-  STARRY_SKY: process.env.NEXT_PUBLIC_STARRY_SKY || false, // 开关
+  STARRY_SKY: process.env.NEXT_PUBLIC_STARRY_SKY || true, // 开关
 
   // 悬浮挂件
   WIDGET_PET: process.env.NEXT_PUBLIC_WIDGET_PET || true, // 是否显示宠物挂件
@@ -169,9 +169,9 @@ const BLOG = {
   MUSIC_PLAYER_AUDIO_LIST: [
     // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/
     {
-      name: '路不通就转弯 心不悦就看淡',
+      name: '向云端',
       artist: 'Falcom Sound Team jdk',
-      url: 'http://music.163.com/song/media/outer/url?id=2013266568.mp3',
+      url: 'http://ws.stream.qqmusic.qq.com/C400002xGCvo0URHbs.m4a?guid=932457298&vkey=F257D56F010FBBE3726D41F56C40ADF3FA406E86C429D71F985B063D3AC22473F2C37EE80A470D194ABB363BBC793927D10FD2BD1F868000&uin=&fromtag=120032',
       cover:
           'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
     },
