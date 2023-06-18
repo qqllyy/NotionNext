@@ -169,16 +169,16 @@ const BLOG = {
   MUSIC_PLAYER_AUDIO_LIST: [
     // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/
     {
-      name: '向云端',
+      name: '向云端女',
       artist: 'Falcom Sound Team jdk',
-      url: 'http://ws.stream.qqmusic.qq.com/C400002xGCvo0URHbs.m4a?guid=932457298&vkey=F257D56F010FBBE3726D41F56C40ADF3FA406E86C429D71F985B063D3AC22473F2C37EE80A470D194ABB363BBC793927D10FD2BD1F868000&uin=&fromtag=120032',
+      url: 'https://file.notion.so/f/s/3bd7a920-2d04-4d8a-890d-1cede97cbc6f/%E4%B8%81%E4%B9%99_-_%E5%90%91%E4%BA%91%E7%AB%AF_(DJR7%E7%89%88).mp3?id=e944b3cd-fdd2-401c-97bd-1e36298556e3&table=block&spaceId=d05c04f1-0a0a-44b3-96c9-15c46187e0fc&expirationTimestamp=1687190688805&signature=gjUfARkIMGZEj25yJ55PRpm9By5Dtza9Tlb3AuO_bYw',
       cover:
           'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
     },
     {
-      name: '螃蟹真疼',
+      name: '向云端男',
       artist: 'Falcom Sound Team jdk',
-      url: 'http://music.163.com/song/media/outer/url?id=1471903600.mp3',
+      url: 'https://file.notion.so/f/s/084d2481-7be1-4330-868e-7741abcec336/7paste_-_%E5%90%91%E4%BA%91%E7%AB%AF.mp3?id=b99c50a3-2fc2-4186-8d6d-ef897c2b3b91&table=block&spaceId=d05c04f1-0a0a-44b3-96c9-15c46187e0fc&expirationTimestamp=1687190688803&signature=p0OeM3PqzdDtSI2za-iS_cyJoK1Ij12pzz97O_89utQ',
       cover:
           'https://p1.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
     }
