@@ -178,7 +178,7 @@ const BLOG = {
     {
       name: '向云端（男）',
       artist: 'Falcom Sound Team jdk',
-      url: 'https://dl.stream.qqmusic.qq.com/C400002xGCvo0URHbs.m4a?guid=1525038643&vkey=E1B6DB75501D5098B08EA66ABA8221ADBD69DAF893B9A8DC87BB47B750AC0903B712A3C4AD9DECB0FFEEA67CE29EAF6838CE4E8D10A47CC1&uin=&fromtag=120032',
+      url: 'https://webfs.ali.kugou.com/202306191529/40d789d4b853116741f725e223be7777/KGTX/CLTX001/dd2cc8cd1824649f2c0d31247d629f3c.mp3',
       cover:
           'https://p1.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
     }
