@@ -171,14 +171,14 @@ const BLOG = {
     {
       name: '向云端（女）',
       artist: 'Falcom Sound Team jdk',
-      url: 'https://file.notion.so/f/s/3bd7a920-2d04-4d8a-890d-1cede97cbc6f/%E4%B8%81%E4%B9%99_-_%E5%90%91%E4%BA%91%E7%AB%AF_(DJR7%E7%89%88).mp3?id=e944b3cd-fdd2-401c-97bd-1e36298556e3&table=block&spaceId=d05c04f1-0a0a-44b3-96c9-15c46187e0fc&expirationTimestamp=1687190688805&signature=gjUfARkIMGZEj25yJ55PRpm9By5Dtza9Tlb3AuO_bYw',
+      url: 'https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1687156956241/%E4%B8%81%E4%B9%99%20-%20%E5%90%91%E4%BA%91%E7%AB%AF%20(DJR7%E7%89%88).mp3',
       cover:
           'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
     },
     {
       name: '向云端（男）',
       artist: 'Falcom Sound Team jdk',
-      url: 'https://file.notion.so/f/s/084d2481-7be1-4330-868e-7741abcec336/7paste_-_%E5%90%91%E4%BA%91%E7%AB%AF.mp3?id=b99c50a3-2fc2-4186-8d6d-ef897c2b3b91&table=block&spaceId=d05c04f1-0a0a-44b3-96c9-15c46187e0fc&expirationTimestamp=1687190688803&signature=p0OeM3PqzdDtSI2za-iS_cyJoK1Ij12pzz97O_89utQ',
+      url: 'https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1687157054832/7paste%20-%20%E5%90%91%E4%BA%91%E7%AB%AF.mp3',
       cover:
           'https://p1.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
     }
