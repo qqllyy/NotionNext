@@ -171,14 +171,14 @@ const BLOG = {
     {
       name: '向云端（女）',
       artist: 'Falcom Sound Team jdk',
-      url: 'https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1687156956241/%E4%B8%81%E4%B9%99%20-%20%E5%90%91%E4%BA%91%E7%AB%AF%20(DJR7%E7%89%88).mp3',
+      url: 'https://webfs.ali.kugou.com/202306191516/516544f1da80cc2caa4c48f8effaf376/KGTX/CLTX001/0484cf7e9d01734b50028aed44f938a0.mp3',
       cover:
           'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
     },
     {
       name: '向云端（男）',
       artist: 'Falcom Sound Team jdk',
-      url: 'https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1687157054832/7paste%20-%20%E5%90%91%E4%BA%91%E7%AB%AF.mp3',
+      url: 'https://dl.stream.qqmusic.qq.com/C400002xGCvo0URHbs.m4a?guid=1525038643&vkey=E1B6DB75501D5098B08EA66ABA8221ADBD69DAF893B9A8DC87BB47B750AC0903B712A3C4AD9DECB0FFEEA67CE29EAF6838CE4E8D10A47CC1&uin=&fromtag=120032',
       cover:
           'https://p1.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
     }
