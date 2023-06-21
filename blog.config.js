@@ -169,6 +169,13 @@ const BLOG = {
   MUSIC_PLAYER_AUDIO_LIST: [
     // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/
     {
+      name: 'Cry On My Shoulder',
+      artist: 'Falcom Sound Team jdk',
+      url: 'https://webfs.ali.kugou.com/202306212245/19845bcc5f66b7151923c1d6a37ce0bd/KGTX/CLTX001/917188e8f1c657bfe31c523d78dd496c.mp3',
+      cover:
+          'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+    },
+    {
       name: '向云端（女）',
       artist: 'Falcom Sound Team jdk',
       url: 'https://webfs.ali.kugou.com/202306191516/516544f1da80cc2caa4c48f8effaf376/KGTX/CLTX001/0484cf7e9d01734b50028aed44f938a0.mp3',
