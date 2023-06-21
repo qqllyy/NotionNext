@@ -173,21 +173,21 @@ const BLOG = {
       artist: 'Falcom Sound Team jdk',
       url: 'https://webfs.ali.kugou.com/202306212245/19845bcc5f66b7151923c1d6a37ce0bd/KGTX/CLTX001/917188e8f1c657bfe31c523d78dd496c.mp3',
       cover:
-          'https://photo.yiji007.com/2023/6/21/images/44437724_1687359616156.jpg'
+          'https://photo.yiji007.com/2023/6/21/images/44437724_1687360200491.jpg'
     },
     {
       name: '向云端（女）',
       artist: 'Falcom Sound Team jdk',
       url: 'https://webfs.ali.kugou.com/202306191516/516544f1da80cc2caa4c48f8effaf376/KGTX/CLTX001/0484cf7e9d01734b50028aed44f938a0.mp3',
       cover:
-          'https://photo.yiji007.com/2023/6/21/images/44437724_1687359616156.jpg'
+          'https://photo.yiji007.com/2023/6/21/images/44437724_1687360200491.jpg'
     },
     {
       name: '向云端（男）',
       artist: 'Falcom Sound Team jdk',
       url: 'https://webfs.ali.kugou.com/202306191615/fc58b0d6a244f98e6d0bdb5a7e170bfa/KGTX/CLTX001/dd2cc8cd1824649f2c0d31247d629f3c.mp3',
       cover:
-          'https://photo.yiji007.com/2023/6/21/images/44437724_1687359616156.jpg'
+          'https://photo.yiji007.com/2023/6/21/images/44437724_1687360200491.jpg'
     }
   ],
   MUSIC_PLAYER_METING: process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING || false, // 是否要开启 MetingJS，从平台获取歌单。会覆盖自定义的 MUSIC_PLAYER_AUDIO_LIST，更多配置信息：https://github.com/metowolf/MetingJS
